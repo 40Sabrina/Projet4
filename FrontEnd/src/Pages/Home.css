@@ -1,0 +1,24 @@
+.cardArticle {
+display: flex;
+align-items: center;
+gap: 2rem;
+}
+.refArticle {
+  width: 6rem;
+}
+.nameArticle {
+  width: 10rem;
+}
+.descriptionArticle {
+  width: 10rem;
+}
+.stockArticle, .newStockArticle {
+  width: 3rem;
+}
+
+.containerPutDelete{
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem;
+  gap: 2rem;
+}
